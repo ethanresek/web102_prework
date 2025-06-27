@@ -4,7 +4,7 @@ Submitted by: Ethan Resek
 
 MonsterFunded is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: 4 hours spent in total
 
 ## Required Features
 
@@ -19,23 +19,22 @@ The following **optional** features are implemented:
 
 * [x] The Our Games section includes search functionality
 * [x] The website has a nav bar which jumps the user to specific sections of the page
+* [x] Website color palette has been updated to match the nautical theme of the company
+* [x] Other visual improvements (e.g., larger website title and logo, centered text)
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<div style="position: relative; padding-bottom: 44.6875%; height: 0;"><iframe src="https://www.loom.com/embed/c4b39b919fa44c3abf7acdf22755bdab?sid=124ab0b4-90dd-4fec-9a85-6dd34f1a1748" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+Loom share link: https://www.loom.com/share/c4b39b919fa44c3abf7acdf22755bdab?sid=268a30d8-9fb8-4936-a33c-f008e16f4253
+
+Video created with Loom
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I always have trouble picking color schemes for websites. Also, I had never designed a search bar before, so it was interesting to learn how! Otherwise, this project was not too challenging.
 
 ## License
 
